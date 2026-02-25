@@ -1,18 +1,17 @@
 import requests
 
-
 def fetch_establishments() : 
     url                    = "https://jsonplaceholder.typicode.com/users"
 
     response               = requests.get(url)
     data                   = response.json()
     data_customized  = [{
-        "id"               : user["id"],
-        "name"             : user["name"],
-        "username"         : user["username"],
-        "street"           : user["address"]["street"],
-        "zipcode"          : user["address"]["zipcode"],
-        "company"          : user["company"]["name"]
+        "id"               : user.get("id"),
+        "name"             : user.get("name","UNKNOWN"),
+        "username"         : user.get("username","UNKNOWN"),
+        "street"           : user.get("address",{}).get("street","UNKNOWN"),
+        "zipcode"          : user.get("address",{}).get("zipcode","UNKNOWN"),
+        "company"          : user.get("company",{}).get("name","UNKNOWN")
     }
         for user in data 
     ]

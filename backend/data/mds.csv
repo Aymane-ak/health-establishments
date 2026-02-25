@@ -1,0 +1,81 @@
+﻿nom_commune;nom maison des solidarités;adresse;code_postal;téléphone;secteur maison des solidarités;horaires accueil public;type_site;Geo Point
+VILLENEUVE-TOLOSANE;Villeneuve-Tolosane;6 PLACE DE L'HOTEL DE VILLE;31270;05 34 63 03 20;Frouzins;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.526168830916745, 1.343107650872009
+CORNEBARRIEU;Cornebarrieu;11 RUE DU PONT VIEUX;31700;05 61 71 03 50;Blagnac;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.64959366088299, 1.3235416062580043
+EAUNES;Eaunes;7 RUE VOLTAIRE;31600;05 62 11 62 40;Muret;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.422817310101635, 1.3518209083241897
+SAINT-JORY;St Jory;2 RUE DE VERDUN;31380;05 61 37 51 00;Aucamville;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.74130396762266, 1.371836107978893
+BOULOGNE-SUR-GESSE;Boulogne;77 RUE BARRY D'EN BAS;31350;05 62 00 98 10;Saint-Gaudens;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.29177813521392, 0.647957067075347
+SAINT-LYS;St Lys;14 RUE DU 11 NOVEMBRE;31470;05 34 63 03 20;Frouzins;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.51363544866966, 1.1748937567560744
+FONSORBES;Fonsorbes;8 RUE LUIGI AMADIO;31470;05 34 63 03 20;Frouzins;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.53378532326498, 1.235743613783338
+BESSIERES;Bessières;62 CHEMIN LASSALLE;31660;05 34 27 94 94;Bouloc;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.801858380315046, 1.6052302583985871
+CASTANET-TOLOSAN;Castanet;68 AVENUE DU LAURAGAIS;31320;05 62 71 91 80;Castanet-Tolosan;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.512706527962195, 1.500560180657575
+COLOMIERS;Colomiers;4 ALLEE DU PLANTAUREL;31770;05 61 16 82 00;Colomiers;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.60875922993777, 1.3349858665677252
+REVEL;Revel;20 RUE CLEMENCE ISAURE;31250;05 62 16 46 25;Revel;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.45243778766587, 1.9928598353455786
+TOURNEFEUILLE;Tournefeuille;ZAC LA PADERNE, 6 RUE GEORGES SAND;31170;05 62 13 67 80;Tournefeuille;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.58540570021471, 1.3349823445643765
+TOULOUSE;La Faourette;21 RUE JULES AMILHAU;31100;05 34 60 25 70;Faourette;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.582181814628925, 1.414824721570489
+TOULOUSE;Centre;18 RUE DE STALINGRAD;31000;05 34 41 56 00;Centre;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.60940515753556, 1.451085500321156
+TOULOUSE;Empalot;32 ALLEE HENRI SELLIER;31400;05 61 14 76 00;Empalot;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.57733559979528, 1.4382128117647672
+TOULOUSE;Soupetard;31 RUE LEON SAY;31500;05 61 99 56 00;Soupetard;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.61456510196894, 1.4740563336802552
+RIEUMES;Rieumes;320 RUE DU PIGEONNIER;31370;05 61 98 44 70;Cazères;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.40866314513828, 1.1157148776493488
+VENERQUE;Venerque;12 PLACE ST PIERRE;31810;05 61 50 99 10;Auterive;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.433002349136544, 1.4431918393106375
+TOULOUSE;La Terrasse;2 IMPASSE LE BONDIDIER;31500;05 61 99 56 00;Soupetard;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.583287912523865, 1.4869087976923814
+SEYSSES;Seysses;14BIS RUE JEAN SAVIGNOL;31600;05 34 63 03 20;Frouzins;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.49615472329449, 1.3102238976084055
+LANTA;Lanta;5 RUE DE CROUZELYS;31570;05 62 71 49 60;Villefranche-de-Lauragais;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.55947895419627, 1.6540364962365317
+NAILLOUX;Nailloux;2 RUE JEAN JAURES;31560;05 62 71 49 60;Villefranche-de-Lauragais;fermeture pour travaux, réouverture le 16/03/2026;Point d'accueil de proximité;43.354363768735325, 1.624381704507253
+TOULOUSE;Amouroux Bonnefoy;3 RUE FAUBOURG BONNEFOY;31500;05 34 25 51 00;Amouroux;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.61640706539564, 1.4531612904227482
+BOULOC;Bouloc;2 RUE DE LA GARE;31620;05 34 27 94 94;Bouloc;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.78309122862852, 1.4082493767019477
+AUTERIVE;Auterive;6 BOULEVARD JULES GUESDE;31190;05 34 27 34 58;Auterive;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.350684598930435, 1.4793479785945445
+CARBONNE;Carbonne;2 RUE DES ROSIERS;31390;05 61 97 88 67;Carbonne;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.29220067107273, 1.2268497104446126
+SAINT-MARTORY;St Martory;39 RUE ALEXANDRE SAHUC;31360;05 61 89 95 00;Salies-du-Salat;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.141275150608976, 0.9309956217664798
+TOULOUSE;Bagatelle Tertial 1;214 ROUTE DE ST SIMON TERTIAL 1;31100;05 61 19 06 30;Bagatelle;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.57930347271349, 1.394114621236911
+GRENADE;Grenade;4 RUE LOUISE MICHEL;31330;05 61 71 03 50;Blagnac;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.7642330894414, 1.292660170354018
+LE FOUSSERET;Le Fousseret;87 ROUTE DE CAZERES;31430;05 61 98 44 70;Cazères;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.27863919348684, 1.065785863424561
+BAGNERES-DE-LUCHON;Bagnères-de-Luchon;2 BOULEVARD CHARLES DE GAULLE;31110;05 62 00 92 20;Cierp-Gaud;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;42.791347850271706, 0.5974445804335083
+TOULOUSE;Jardins du Pech;6 RUE G. COURTELINE   RUE DU 14 JUILLET;31100;05 61 19 06 30;Bagatelle;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.59152394072041, 1.4152334293152615
+BAZIEGE;Baziège;274 AVENUE DE L'HERS;31450;05 62 71 91 80;Castanet-Tolosan;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.452756190934394, 1.6124228359329669
+VILLEMUR-SUR-TARN;Villemur;15 AVENUE DU GENERAL LECLERC;31340;05 34 27 94 94;Bouloc;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.859268791306896, 1.501618785730039
+AUCAMVILLE;Aucamville;21 CHEMIN DES BOURDETTES;31140;05 61 37 51 00;Aucamville;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.66953419313886, 1.4307879969441963
+TOULOUSE;Minimes;33 RUE JOSEPH JACQUARD;31200;05 62 72 77 80;Minimes;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.62353444701342, 1.4276540622371643
+CIERP-GAUD;Cierp-Gaud;2 RUE DE L'EGLISE;31440;05 62 00 92 20;Cierp-Gaud;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;42.91420838632624, 0.6380695976533044
+VILLEFRANCHE-DE-LAURAGAIS;Villefranche;69 AVENUE DE LA FONTASSE;31290;05 62 71 49 60;Villefranche-de-Lauragais;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.39956286871442, 1.7140794631489757
+TOULOUSE;Pont Vieux + CSS;3-5 RUE DU PONT VIEUX;31300;05 62 13 23 00;Pont Vieux;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.59761421028448, 1.4360829704966709
+SALIES-DU-SALAT;Salies;2 RUE DU STADE;31260;05 61 89 95 00;Salies-du-Salat;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.10094764530179, 0.9609960542646729
+TOULOUSE;Les Izards;2 RUE CLAUDE BERNARD;31200;05 34 36 17 00;Borderouge;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.637426197333234, 1.441428986239505
+TOULOUSE;Mendès France;PLACE  MENDES FRANCE;31400;05 61 14 63 33;Rangueil;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.58738034449565, 1.4618348858889851
+TOULOUSE;L'Ayga;20 RUE DE L`AYGA;31500;05 61 99 56 00;Soupetard;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.60303462022404, 1.4779417077532562
+VERFEIL;Verfeil;3 PLACE FRANCOIS MITTERRAND;31590;05 34 25 50 50;Saint-Jean;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.657990153121744, 1.6626567438178792
+CUGNAUX;Cugnaux;3 RUE VINCENT AURIOL PLACE DE LA REPUBLIQUE;31270;05 34 63 03 20;Frouzins;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.53756304272953, 1.3467514573790431
+CINTEGABELLE;Cintegabelle;10 CHEMIN DE PLANOLLE;31550;05 61 50 99 10;Auterive;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.31443784725361, 1.5313998478685849
+CADOURS;Cadours;3 RUE DES FOSSES;31480;05 62 13 08 00;La Salvetat-Saint-Gilles;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.72735531733539, 1.047985703782444
+RAMONVILLE-SAINT-AGNE;Ramonville;14 PLACE MARNAC;31520;05 62 71 91 80;Castanet-Tolosan;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.5468142185328, 1.4779359683772293
+SAINT-ORENS-DE-GAMEVILLE;St Orens;2 BIS RUE DU CHASSELAS;31650;05 61 24 92 20;Balma;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.552709418741856, 1.535714857105153
+FRONTON;Fronton;5 RUE DU 19 MARS 1962;31620;05 34 27 94 94;Bouloc;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.838109736157215, 1.3900861790728145
+MONTESQUIEU-VOLVESTRE;Montesquieu;RUE DE MELLES;31310;05 61 97 88 67;Carbonne;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.20771387523623, 1.2276719953956348
+FENOUILLET;Fenouillet;1 BIS RUE DU MARECHAL LECLERC;31150;05 61 37 51 00;Aucamville;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.68180067387469, 1.3937884294775629
+PLAISANCE-DU-TOUCH;Plaisance-du-Touch;7 RUE D'ESTUJATS;31830;05 62 13 08 00;La Salvetat-Saint-Gilles;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.56723550501376, 1.3067903195436064
+MONTASTRUC-LA-CONSEILLERE;Montastruc;AVENUE DU GENERAL CASTELNAU;31380;05 34 25 50 50;Saint-Jean;fermé pour travaux, réouverture prévue en avril;Point d'accueil de proximité;43.719909472299506, 1.5899173942257396
+MONTREJEAU;Montréjeau;17 RUE DES PYRENEES;31210;05 62 00 98 10;Cierp-Gaud;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.084430594465644, 0.5690046353104719
+MURET;Muret;44 AVENUE JACQUES DOUZANS;31600;05 62 11 62 40;Muret;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.46589916687044, 1.327308374672251
+TOULOUSE;Basso Cambo;9 RUE DU DOYEN LEFEBVRE;31100;05 62 87 41 50;Basso Cambo;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.566874374843366, 1.3967188844484832
+LA SALVETAT-SAINT-GILLES;La Salvetat St Gilles;2 PLACE GEORGES BRASSENS;31880;05 62 13 08 00;La Salvetat-Saint-Gilles;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.575634736109805, 1.2741798982983688
+SAINT-GAUDENS;St Gaudens;4 AVENUE MARECHAL FOCH;31800;05 62 00 98 10;Saint-Gaudens;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.10617150475337, 0.7188874546689484
+SAINT-JEAN;St Jean;8 CHEMIN DU BOIS DE SAGET;31240;05 34 25 50 50;Saint-Jean;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.6619965977852, 1.4983391977271585
+BALMA;Balma;13 RUE PIERRE COUPEAU;31130;05 61 24 92 20;Balma;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.61149445280217, 1.4984520582997565
+TOULOUSE;Montaudran;5 IMPASSE GUERRERO;31400;05 61 14 63 33;Rangueil;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.575086674765906, 1.4839834762746094
+L'ISLE-EN-DODON;L'Isle-en-Dodon;14 ROUTE DE TOULOUSE;31230;05 62 00 98 10;Saint-Gaudens;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.383686679575774, 0.8336827202522477
+TOULOUSE;Blanchard;10 RUE JEAN-PIERRE BLANCHARD;31400;05 61 14 76 00;Empalot;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.58822876354901, 1.4474802549586203
+TOULOUSE;Abbal;2 ALLEE ANDRE MAGINOT;31100;05 62 87 41 50;Basso Cambo;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.571763223516776, 1.40256121607221
+ASPET;Aspet;15 PLACE DE LA REPUBLIQUE;31160;05 61 89 95 00;Salies-du-Salat;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.014884331451576, 0.8036924458143558
+ESCALQUENS;Escalquens;PLACE FRANCOIS MITTERRAND / BATIMENT OUSTAL;31750;05 62 71 91 80;Castanet-Tolosan;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.518884713829785, 1.5586493254407225
+CARAMAN;Caraman;40 RUE CARNOT;31460;05 62 71 49 60;Villefranche-de-Lauragais;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.5298590204472, 1.7562533235921067
+PORTET-SUR-GARONNE;Portet-sur-Garonne;2 RUE DU ROUERGUE ILÔT SAINTONGE BÂT. A;31120;05 34 63 03 20;Frouzins;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.53939016082516, 1.4096763833414596
+AURIGNAC;Aurignac;ROUTE D'ALAN;31420;05 62 00 98 10;Saint-Gaudens;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.21850659957099, 0.8882667374123003
+MARTRES-TOLOSANE;Martres-Tolosane;12 BOULEVARD DE LA MADELEINE;31220;05 61 98 44 70;Cazères;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.198425069750506, 1.0108593632146863
+LEGUEVIN;Léguevin;1 RUE D'AQUITAINE;31490;05 62 13 08 00;La Salvetat-Saint-Gilles;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.59858578754022, 1.2325120320203684
+TOULOUSE;Fontaines;60 RUE ANTONIO VIVALDI;31400;05 62 13 23 00;Pont Vieux;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.60398721454302, 1.4122042860711888
+TOULOUSE;Forbin;21 RUE CLAUDE FORBIN;31400;05 61 14 63 33;Rangueil;contacter votre MDS pour les jours de permanence;Point d'accueil de proximité;43.575376313917154, 1.4629858098196773
+TOULOUSE;Borderouge;4 RUE FRANCOISE D'EAUBONNE;31200;05 34 36 17 00;Borderouge;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.64254808946304, 1.4537889432920912
+TOULOUSE;Rangueil;39 RUE CAMILLE DESMOULINS;31400;05 61 14 63 33;Rangueil;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.58106301442769, 1.452582960469658
+TOULOUSE;Bagatelle;36 RUE DU LOT;31100;05 61 19 06 30;Bagatelle;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.58075291069291, 1.4089636594404158
+BLAGNAC;Blagnac;ZAC ANDROMEDE, 4 BOULEVARD ALAIN SAVARY;31700;05 61 71 03 50;Blagnac;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.65348406975641, 1.3715880224524752
+FROUZINS;Frouzins;94 BOULEVARD DE LA MEDITERRANEE;31270;05 34 63 03 20;Frouzins;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.518820118367344, 1.3212614134462086
+CAZERES;Cazères;11 AVENUE DE SALEICH;31220;05 61 98 44 70;Cazères;lundi à vendredi - 8h30-12h - 13h30-17h;Siège MDS;43.206418579625996, 1.0938564795410164

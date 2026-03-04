@@ -9,7 +9,11 @@ dist/
 
 # Environnement
 .env
+env/
 
 # OS
 .DS_Store
 Thumbs.db
+
+
+storage/

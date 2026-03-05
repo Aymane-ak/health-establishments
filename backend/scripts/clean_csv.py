@@ -1,8 +1,10 @@
+import psycopg2 
+import pandas as pd
+import os
+from dotenv import load_dotenv
 import os
 
-import pandas as pd
-
-import psycopg2 
+load_dotenv()
 
 df = pd.read_csv("data/mds.csv", delimiter =";")
 # Afficher les 5 premières lignes
@@ -14,7 +16,6 @@ print(df.columns)
 # Infos générales
 print("\nInfos :")
 print(df.info())
-
 
 df_cleaned = df.rename(columns= {    
   "nom maison des solidarités"     : "nom_maison_des_solidarites",
@@ -37,7 +38,7 @@ print("\nInfos dataframe cleaned :")
 print(df_cleaned.info())
 
 
-#### CONNEXION A LA BASE DE DONNEES #### 
+########  CONNEXION A LA BASE DE DONNEES  ######## 
 
 conn = psycopg2.connect(
     dbname   = os.getenv("DB_NAME"),
@@ -54,3 +55,35 @@ records = cur.fetchall()
 
 print( "Les resultats sont : " , records)
 
+"""
+try : 
+  for index, row  in df_cleaned.iterrows() : 
+    valeurs = (
+        row['nom_commune'],
+        row['nom_maison_des_solidarites'],
+        row['adresse'],
+        row['code_postal'],
+        row['telephone'],
+        row['secteur_maison_des_solidarites'],
+        row['horaires_accueil_public'],
+        row['type_site'],
+        row['lat'], 
+        row['long']
+    )
+    cur.execute(
+      "INSERT INTO mds (nom_commune,nom_maison_des_solidarites,adresse,code_postal,telephone,secteur_maison_des_solidarites,horaires_accueil_public,"
+      "type_site,lat,long) values ( %s,%s,%s,%s,%s,%s,%s,%s,%s,%s)", 
+      valeurs ) 
+
+    ##cur.executemany(
+    # "INSERT INTO mds (nom_commune,nom_maison_des_solidarites,adresse,code_postal,telephone,secteur_maison_des_solidarites,horaires_accueil_public,"
+    ##"type_site,lat,long) values ( %s,%s,%s,%s,%s,%s,%s,%s,%s,%s)", valeurs ) 
+  conn.commit()
+except Exception as e :  
+  conn.rollback()
+  print("Erreur : " , e)
+finally : 
+  cur.close()
+  conn.close()
+    
+"""

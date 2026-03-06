@@ -17,3 +17,6 @@ Thumbs.db
 
 
 storage/
+
+# Data
+backend/data/
